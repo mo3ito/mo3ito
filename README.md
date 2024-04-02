@@ -22,3 +22,4 @@
 [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-64748b?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=64748b)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/mo3ito/)
+[![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
