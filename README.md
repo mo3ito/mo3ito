@@ -1,5 +1,5 @@
 
-![Entezami Web Developer](https://s8.uupload.ir/files/black_simple_business_linkedin_banner_(2)_5qau.png)
+![Mostafa Entezami Web Developer](https://s8.uupload.ir/files/mo3ito-image_smh8.png)
 <p>
 <img src="https://komarev.com/ghpvc/?username=aliakbarmotallebi&color=yellow" alt="Profile visitor">
 </p>
