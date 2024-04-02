@@ -16,7 +16,7 @@
 [![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-ecfccb?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=ecfccb)](https://nodejs.org/en)
+[![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)](https://nodejs.org/en)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Redux](https://img.shields.io/badge/Redux-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://redux.js.org/)
 [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-64748b?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=64748b)](https://tailwindcss.com/)
