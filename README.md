@@ -1,5 +1,5 @@
 
-![Entezami Web Developer](https://www.canva.com/design/DAGBQwlLrks/7mZiW32tJxV5bCctLfyPBw/view?utm_content=DAGBQwlLrks&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![Entezami Web Developer](https://s8.uupload.ir/files/black_simple_business_linkedin_banner_(1)_s390.png)
 <p>
 <img src="https://komarev.com/ghpvc/?username=aliakbarmotallebi&color=yellow" alt="Profile visitor">
 </p>
