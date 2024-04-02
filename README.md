@@ -19,6 +19,6 @@
 [![Node.js](https://img.shields.io/badge/Node.js-a3e635?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=a3e635)](https://nodejs.org/en)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Redux](https://img.shields.io/badge/Redux-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://redux.js.org/)
-[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](https://tailwindcss.com/)
+[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=a7f3d0)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/mo3ito/)
