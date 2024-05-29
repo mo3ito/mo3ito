@@ -24,5 +24,6 @@
 [![Redux](https://img.shields.io/badge/Redux-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://redux.js.org/)
 [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-64748b?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=64748b)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Docker](https://img.shields.io/badge/Docker-F05032?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/mo3ito/)
 [![npm](https://img.shields.io/badge/Npm-fb923c?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
