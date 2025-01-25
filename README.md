@@ -1,16 +1,11 @@
 ![Mostafa Entezami Web Developer](https://s8.uupload.ir/files/mo3ito-image_7e4s.png)
-
-<p align="center">
+<p>
 <img src="https://komarev.com/ghpvc/?username=mostafaentezami&color=yellow" alt="Profile visitor">
 </p>
 
-<p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-entezami)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mo3ito)
-  [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mo3ito)
-</p>
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-entezami) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mo3ito)
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/mo3ito) 
 
 ### 💻 Tech Stack:
 
