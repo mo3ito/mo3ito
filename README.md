@@ -1,4 +1,4 @@
-![Mostafa Entezami Web Developer]([https://i.postimg.cc/G2WPVPXt/photo-5771724198400607741-x.png](https://i.postimg.cc/9Qdkp0Fy/photo-5771724198400607876-x.jpg))
+![Mostafa Entezami Web Developer](https://i.postimg.cc/9Qdkp0Fy/photo-5771724198400607876-x.jpg)
 <p>
 <img src="https://komarev.com/ghpvc/?username=mostafaentezami&color=yellow" alt="Profile visitor">
 </p>
